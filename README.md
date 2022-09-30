@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://github.com/MGCorbin"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MGCorbin&count_private=true&show_icons=true&hide_border=true&cardType=level&theme=tokyonight&icon_color=aa00d6&text_color=22d6c4" /></a>
+
 <!--
 **MGCorbin/MGCorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
